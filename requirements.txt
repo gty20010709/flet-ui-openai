@@ -1,0 +1,5 @@
+flet
+openai
+asgiref
+loguru
+requests-html
